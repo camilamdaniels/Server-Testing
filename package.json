@@ -1,0 +1,20 @@
+{
+  "name": "server-testing",
+  "version": "1.0.0",
+  "description": "## Topics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilamdaniels/Server-Testing.git"
+  },
+  "author": "Camila Daniels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilamdaniels/Server-Testing/issues"
+  },
+  "homepage": "https://github.com/camilamdaniels/Server-Testing#readme"
+}
